@@ -74,7 +74,7 @@ while input != "q"
   elsif input == "d"
     print "What's your name: "
     name = gets.chomp.downcase
-    if name == "guy"
+    if name == "admin"
       adpet
     end
 
